@@ -1,2 +1,0 @@
-# PruebaPHP
-# Prueba_tecnica
